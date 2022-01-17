@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "color_pairnum.h"
+#include "common.h"
 
 const char* MajorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
