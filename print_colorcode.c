@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "print_colorcode.h"
-#include "common.h"
 #include "color_pairnum.h"
 
 void ColorCodingManual()
