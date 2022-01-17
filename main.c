@@ -3,11 +3,6 @@
 #include "testnum_pair.h"
 #include "color_pairnum.h"
 
-typedef struct {
-    enum MajorColor majorColor;
-    enum MinorColor minorColor;
-} ColorPair;
-
 
 
 int main() {
