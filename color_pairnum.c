@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "color_pairnum.h"
-#include "common.h"
+
 
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
