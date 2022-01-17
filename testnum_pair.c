@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <assert.h>
 #include "color_pairnum.h"
 #include "testnum_pair.h"
 #include "common.h"
