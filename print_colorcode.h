@@ -1,1 +1,3 @@
+/* function prototype */
+
 void ColorCodingManual();
