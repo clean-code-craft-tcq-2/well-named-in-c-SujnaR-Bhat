@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "color_pairnum.h"
 
+/* updated here due to build error */
 const char* MajorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
 };
@@ -8,6 +9,7 @@ const char* MinorColorNames[] = {
     "Blue", "Orange", "Green", "Brown", "Slate"
 };
 
+/* updated here due to build error */
 int numberOfMajorColors =
     sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);    
 int numberOfMinorColors =
