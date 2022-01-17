@@ -3,7 +3,7 @@
 #include "color_pairnum.h"
 #include "testnum_pair.h"
 
-
+/* function to match test number to color pair */
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
     enum MinorColor expectedMinor)
@@ -16,6 +16,7 @@ void testNumberToPair(int pairNumber,
     assert(colorPair.minorColor == expectedMinor);
 }
 
+/* function to match color pair to number */
 void testPairToNumber(
     enum MajorColor major,
     enum MinorColor minor,
