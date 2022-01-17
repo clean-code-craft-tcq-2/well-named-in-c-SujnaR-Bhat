@@ -2,7 +2,7 @@
 #include <assert.h>
 #include "color_pairnum.h"
 #include "testnum_pair.h"
-#include "common.h"
+
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
