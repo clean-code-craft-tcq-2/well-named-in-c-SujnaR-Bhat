@@ -2,6 +2,7 @@
 #include "print_colorcode.h"
 #include "color_pairnum.h"
 
+/* function to print color code */
 void ColorCodingManual()
 {
 	printf("Color Coding Manual");
